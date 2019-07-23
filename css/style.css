@@ -83,3 +83,15 @@
 .login-search a {
     padding: 0.5rem;
 }
+
+
+/*TOP STORIES*/
+
+.topstories {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-areas: 
+    'side-bar-right content-middle side-bar-right'
+}
+
+
